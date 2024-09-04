@@ -3,3 +3,4 @@ langchain
 python-dotenv
 openai
 langchain-community
+pip install --upgrade openai langchain
